@@ -14,6 +14,7 @@
 		10BC6D1D1D4E5FD600F22EEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10BC6D1B1D4E5FD600F22EEE /* LaunchScreen.storyboard */; };
 		10BC6D281D4E5FD600F22EEE /* Button_FunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BC6D271D4E5FD600F22EEE /* Button_FunTests.swift */; };
 		10BC6D331D4E5FD700F22EEE /* Button_FunUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BC6D321D4E5FD700F22EEE /* Button_FunUITests.swift */; };
+		10BC6D411D4E620200F22EEE /* test SVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BC6D401D4E620200F22EEE /* test SVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		10BC6D2E1D4E5FD600F22EEE /* Button FunUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Button FunUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		10BC6D321D4E5FD700F22EEE /* Button_FunUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button_FunUITests.swift; sourceTree = "<group>"; };
 		10BC6D341D4E5FD700F22EEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10BC6D401D4E620200F22EEE /* test SVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "test SVC.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				10BC6D191D4E5FD600F22EEE /* Assets.xcassets */,
 				10BC6D1B1D4E5FD600F22EEE /* LaunchScreen.storyboard */,
 				10BC6D1E1D4E5FD600F22EEE /* Info.plist */,
+				10BC6D401D4E620200F22EEE /* test SVC.swift */,
 			);
 			path = "Button Fun";
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10BC6D411D4E620200F22EEE /* test SVC.swift in Sources */,
 				10BC6D151D4E5FD600F22EEE /* ViewController.swift in Sources */,
 				10BC6D131D4E5FD600F22EEE /* AppDelegate.swift in Sources */,
 			);
